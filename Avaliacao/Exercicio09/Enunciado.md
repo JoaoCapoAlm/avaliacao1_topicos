@@ -1,0 +1,7 @@
+# Exercício 09
+
+Desenvolva um sistema de processamento de pagamentos com diferentes métodos de pagamento,
+como cartão de crédito, boleto bancário e transferência bancária.
+Crie uma interface IMetodoPagamento com métodos para realizar o pagamento e verificar o status do pagamento.
+Implemente classes para cada método de pagamento que herdem dessa interface e forneça a lógica específica para cada
+método de pagamento.
